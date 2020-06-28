@@ -1,4 +1,4 @@
-<?php include "header.php" ?>
+include("header.php");
 
 <!-- Header -->
 <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">

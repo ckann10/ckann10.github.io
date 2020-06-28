@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <title>Claudia Kann</title>
 <meta charset="UTF-8">

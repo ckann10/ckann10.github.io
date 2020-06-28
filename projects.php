@@ -1,0 +1,129 @@
+<?php include "header.php" ?>
+
+
+<!-- Page content -->
+<div class="w3-content w3-padding" style="max-width:1564px">
+
+
+ <!-- Project Section -->
+  <div class="w3-container w3-padding-32" >
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Projects</h3>
+  </div>
+  <div class="w3-row-padding" id = "Protests">
+    <div class="w3-col l6 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">Protest Movements</div>
+        <img src="http://localhost/claudia/networks.png"  alt="House" style="width:99%">
+      </div>
+    </div>
+    <div class="w3-col l6 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <p> With current social media platforms such as Facebook, Instagram and Twitter a plethora of data exists, ready to be mined, to study human behavior. In this project I am using some of this information to study how protest movements form and propagate. </p>
+      </div>
+    </div>
+  </div>
+  <div class="w3-row-padding" id = "Election">
+    <div class="w3-col l6 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">Monitoring the Election</div>
+        <img src="http://localhost/claudia/vote.jpg"  alt="House" style="width:99%">
+      </div>
+    </div>
+    <div class="w3-col l6 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+      <p>Working with the <a href = 'https://monitoringtheelection.us/'> Monitoring Election Team </a> as part of the Celtech/MIT Voting Technology Project:</p>
+      <p> "Questions often arise after contested elections:  was the election conducted in a free and fair manner?  This was certainly the case in 2016, where many concerns were raised before, during, and after the presidential election --- in particular about the potential intervention in the 2016 U.S. presidential election by foreign governments or their agents. </p>
+      <p>As we head into the 2020 U.S. election cycle, our project will election officials in California and Oregon to build comprehensive quantitative election performance auditing applications.  Currently we are working with Orange County and Los Angeles County (California) and with the State of Oregon.  We will be providing additional details of the 2020 projects in the very near future. This research project is developing and implementing comprehensive ecological methodology to evaluate the conduct of state and federal elections in Southern California" </p>
+         <ul>
+                  <li> <a href = "https://static1.squarespace.com/static/5ace8a6b45776eba2e40cbee/t/5e8246c175646950dae01bbc/1585596098140/LA_Super_Tuesday_Observation_Report.pdf">Vote Center Observation Report</a>
+                  </li>
+                  <li> <a href = >ePulse Data Analysis Report</a> 
+                  </li>
+                  </ul>
+             </div>
+        </div>
+     </div>
+  <div class="w3-row-padding" id = "Donors">
+    <div class="w3-col l6 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">Hidden Donors</div>
+        <img src="http://localhost/claudia/FEC.jpg"  alt="House" style="width:99%">
+      </div>
+    </div>
+       <div class="w3-col l6 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <p> Who donates to political candidates? When do they donate? What do these donation patterns say about both the candidates and the donors? </p>
+        <p> In this project I am quantifying what has been lost in previous studies on Campaign Finance when small donors, those who donate less than $200 and are thus not recorded individually in FEC reports, are overlooked. </p>
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+  <div class="w3-row-padding" id = "Cassie">
+    <div class="w3-col l6 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">Cassie</div>
+        <img src="http://localhost/claudia/Ames_Robotics_Lab-CASSIE-8403.jpg" alt="House" style="width:100%">
+      </div>
+    </div>
+    <div class="w3-col l6 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+          <p> In the <a href = "http://www.bipedalrobotics.com/">AMBER Lab</a> at the California Institute of Technology, I had to opportunity to work with Cassie from <a href = "https://www.agilityrobotics.com/">Agility Robotivs</a>. Cassie is a facinating robot to work with, with a larger center of mass 
+              in its torso and very light legs in theory one can apply techniques developed for smipler robots. In my work on Cassie, I developed a method to implement highly theoretical methods on Cassie with impressive results. </p>
+              <ul>
+                  <li> Reher, Jenna, <b>Claudia Kann</b> , and Aaron D. Ames. "An
+                    Inverse Dynamics Approach to Control Lyapunov Functions." arXiv
+                    preprint arXiv:1910.10824 (2019) (<a href = "https://arxiv.org/pdf/1910.10824.pdf">PDF</a>)
+                  </li>
+                  </ul>
+             </div>
+        </div>
+     </div>
+  <div class="w3-row-padding" id = "Atalante">
+    <div class="w3-col l6 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">Atalante</div>
+        <img src="http://localhost/claudia/Ames Lab-EXOsuit-WalkingDemo-2563.jpg" alt="House" style="width:100%">
+      </div>
+    </div>
+    <div class="w3-col l6 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+          <p> In the <a href = "http://www.bipedalrobotics.com/">AMBER Lab</a> at the California Institute of Technology, I partnered with the French firm <a href = "https://www.wandercraft.eu/en/">Wandercraft</a> to work on they lower body exoskeleton Atalante. Atalante is designed for patients
+          with disabilities results from spinal cord injury, neuromuscular disease or stroke. My work was focused on trying to improve the method that the robot moved in order to increase comfort for the user </p>
+          <ul>
+              <li> Tucker, Maegan, Ellen Novoseller, <b>Claudia Kann</b>, Yanan Sui, Yisong Yue, Joel Burdick, and Aaron D. Ames. "Preference-Based Learning for Exoskeleton Gait Optimization." arXiv preprint
+                arXiv:1909.12316 (2019) (<a href ="https://arxiv.org/pdf/1909.12316.pdf">PDF</a>) <i>Best Human-Robot Interaction and Best Conference Paper Award ICRA 2020</i>
+            </li>
+        </ul>
+     </div>
+    </div>
+ </div>
+     
+  <div class="w3-row-padding" id = "MAHI">
+      <div class="w3-col l6 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">MAHI Lab</div>
+        <img src="http://localhost/claudia/wrist.png" alt="House" style="width:100%">
+      </div>
+    </div>
+    <div class="w3-col l6 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+           <p> At Rice University, in the <a href = "https://mahilab.rice.edu/">Mechatronics and Haptic Interfaces Lab</a>, I worked on robotic wrist rehabilitation. Specifically, I was studying the effects of these robotic devices on how people move. Robots offer a solution for when repetative motions are needed to performed and there is a shortage of physical therapists, but we question where it is an acceptable replacement. </p>
+            <ul>
+                <li> C.G. Rose, E. Pezent, <b>C.K.Kann</b>, A.D. Deshpande, M.K. O'Malley., "Assessing Wrist Movement with Robotic Devices," in IEEE Transactions on Neural Systems & Rehabilitation Engineering (TNSRE),
+                    2017 (<a href="https://ieeexplore.ieee.org/abstract/document/8404087">PDF</a>)
+                </li>
+                <li> C. G. Rose, <b>C. K. Kann</b> , A. D. Deshpande, M. K.
+                    O'Malley., "Estimating Anatomical Wrist Joint Motion with a Robotic
+                    Exoskeleton," in IEEE Intl. Conf. on Rehab. Robotics (ICORR), 2017 (<a href="https://ieeexplore.ieee.org/abstract/document/8009450">PDF</a>)
+                </li>
+           </ul>
+      </div>
+    </div>
+  </div>
+  
+
+<?php include "footer.php" ?>

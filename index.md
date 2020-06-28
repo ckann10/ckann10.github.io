@@ -11,7 +11,7 @@
     <a href="index.md" class="w3-bar-item w3-button"> Claudia Kann</a>
     <!-- Float links to the right. Hide them on small screens -->
     <div class="w3-right w3-hide-small">
-      <a href="projects.md" class="w3-bar-item w3-button">Projects</a>
+      <a href="projects" class="w3-bar-item w3-button">Projects</a>
       <a href="about.md" class="w3-bar-item w3-button">About</a>
       <a href="CV.md" class="w3-bar-item w3-button">CV</a>
       <a href="contact.md" class="w3-bar-item w3-button">Contact</a>

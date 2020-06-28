@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <title>Claudia Kann</title>
 <meta charset="UTF-8">
@@ -9,16 +8,17 @@
 <!-- Navbar (sit on top) -->
 <div class="w3-top">
   <div class="w3-bar w3-white w3-wide w3-padding w3-card">
-    <a href="index.md" class="w3-bar-item w3-button"> Claudia Kann</a>
+    <a href="index" class="w3-bar-item w3-button"> Claudia Kann</a>
     <!-- Float links to the right. Hide them on small screens -->
     <div class="w3-right w3-hide-small">
-      <a href="projects.md" class="w3-bar-item w3-button">Projects</a>
-      <a href="about.md" class="w3-bar-item w3-button">About</a>
-      <a href="CV.md" class="w3-bar-item w3-button">CV</a>
-      <a href="contact.md" class="w3-bar-item w3-button">Contact</a>
+      <a href="projects" class="w3-bar-item w3-button">Projects</a>
+      <a href="about" class="w3-bar-item w3-button">About</a>
+      <a href="CV" class="w3-bar-item w3-button">CV</a>
+      <a href="contact" class="w3-bar-item w3-button">Contact</a>
     </div>
   </div>
 </div>
+
 <!-- Page content -->
 <div class="w3-content w3-padding" style="max-width:1564px">
 

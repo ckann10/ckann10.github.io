@@ -30,7 +30,7 @@
     <div class="w3-col l6 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Protest Movements</div>
-        <img src="http://localhost/claudia/networks.png"  alt="House" style="width:99%">
+        <img src="img/networks.png"  alt="House" style="width:99%">
       </div>
     </div>
     <div class="w3-col l6 m6 w3-margin-bottom">
@@ -43,7 +43,7 @@
     <div class="w3-col l6 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Monitoring the Election</div>
-        <img src="http://localhost/claudia/vote.jpg"  alt="House" style="width:99%">
+        <img src="img/vote.jpg"  alt="House" style="width:99%">
       </div>
     </div>
     <div class="w3-col l6 m6 w3-margin-bottom">
@@ -64,7 +64,7 @@
     <div class="w3-col l6 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Hidden Donors</div>
-        <img src="http://localhost/claudia/FEC.jpg"  alt="House" style="width:99%">
+        <img src="img/FEC.jpg"  alt="House" style="width:99%">
       </div>
     </div>
        <div class="w3-col l6 m6 w3-margin-bottom">
@@ -83,7 +83,7 @@
     <div class="w3-col l6 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Cassie</div>
-        <img src="http://localhost/claudia/Ames_Robotics_Lab-CASSIE-8403.jpg" alt="House" style="width:100%">
+        <img src="img/Ames_Robotics_Lab-CASSIE-8403.jpg" alt="House" style="width:100%">
       </div>
     </div>
     <div class="w3-col l6 m6 w3-margin-bottom">
@@ -103,7 +103,7 @@
     <div class="w3-col l6 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">Atalante</div>
-        <img src="http://localhost/claudia/Ames Lab-EXOsuit-WalkingDemo-2563.jpg" alt="House" style="width:100%">
+        <img src="img/Ames Lab-EXOsuit-WalkingDemo-2563.jpg" alt="House" style="width:100%">
       </div>
     </div>
     <div class="w3-col l6 m6 w3-margin-bottom">
@@ -123,7 +123,7 @@
       <div class="w3-col l6 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding">MAHI Lab</div>
-        <img src="http://localhost/claudia/wrist.png" alt="House" style="width:100%">
+        <img src="img/wrist.png" alt="House" style="width:100%">
       </div>
     </div>
     <div class="w3-col l6 m6 w3-margin-bottom">
